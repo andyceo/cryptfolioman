@@ -1,0 +1,35 @@
+cryptfolioman:
+  some_param: 1000
+
+  portfolios:
+
+    example1:
+      manage: no
+      btc: 10
+      eth: 10
+
+      wallets:
+        bitcoin:
+          - 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+          - 1Ez69SnzzmePmZX3WpEzMKTrcBF2gpNQ55
+          - 1XPTgDRhN8RFnzniWCddobD9iKZatrvH4
+        ethereum:
+          - "0x281055afc982d96fab65b3a49cac8b878184cb16"
+          - "0x6f46cf5569aefa1acc1009290c8e043747172d89"
+          - "0x90e63c3d53e0ea496845b7a03ec7548b70014a91"
+
+    example2:
+      manage: no
+      btc: 10
+      eth: 10
+
+      wallets:
+        bitcoin:
+          - 1EBHA1ckUWzNKN7BMfDwGTx6GKEbADUozX
+          - 1L2JsXHPMYuAa9ugvHGLwkdstCPUDemNCf
+          - 1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v
+
+        ethereum:
+          - "0xab7c74abc0c4d48d1bdad5dcb26153fc8780f83e"
+          - "0x53d284357ec70ce289d6d64134dfac8e511c8a3d"
+          - "0xfe9e8709d3215310075d67e3ed32a380ccf451c8"
